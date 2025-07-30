@@ -86,7 +86,7 @@ streamlit run app.py
 
 ## 📸 Demo
 
-![Homepage Screenshot](assets/screenshot-homepage.png)
+![Homepage Screenshot](assets/screenshot/homepage.png)
 
 
 ---
