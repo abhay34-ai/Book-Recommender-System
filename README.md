@@ -153,8 +153,3 @@ git commit -m "Update README with project details"
 git push
 ````
 
-Let me know if you'd like to include:
-
-* Deployment instructions (e.g., Streamlit Cloud)
-* Google Colab notebook badge
-* A working YouTube demo or screenshot URL
